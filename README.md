@@ -1,5 +1,5 @@
 # Burst-Balloons
-My clean JS solution to the Leetcode Hard difficulty challange: "Burst Balloons". Takes up less  memory than 100% of other solutions.
+My clean JS solution to the Leetcode Hard difficulty challange: "Burst Balloons". Takes up less  memory than 100% of other solutions on Leetcode.
 
 
 "You are given n balloons, indexed from 0 to n - 1. Each balloon is painted with a number on it represented by an array nums. You are asked to burst all the balloons.
