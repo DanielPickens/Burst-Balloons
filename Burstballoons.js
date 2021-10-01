@@ -23,3 +23,10 @@ var maxCoins = function(nums) {
     }
     return split(1, nums.length-2)
 };
+
+
+
+/*
+Runtime: 1086 ms, faster than 31.37% of JavaScript online submissions for Burst Balloons.
+Memory Usage: 40.4 MB, less than 100.00% of JavaScript online submissions for Burst Balloons.
+*/
